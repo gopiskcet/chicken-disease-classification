@@ -21,6 +21,7 @@ list_of_files = ["(.github/workflows/.gitkeep)",
                  "requirements.txt",
                  "setup.py",
                  "research/trails.ipynp",
+                 "templates/index.html"
                  
                  
                  ]
